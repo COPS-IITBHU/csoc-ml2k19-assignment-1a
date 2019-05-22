@@ -28,12 +28,11 @@ Here is the [markdown](https://www.markdowntutorial.com/) tutorial it is a super
 
 ## Assignment_1_a - Numpy and Python Basics
 
-The first part of the assignment is aimed to make you familiar with some of the basic Numpy functions. This assignment, along with the part 2 of it, is given in Python Notebook to make you feel comfortable while working in that notebook environment.
-
+The first part of the assignment is aimed to make you familiar with some of the basic Numpy functions.
 
 ### Files Given
 
 	array.pickle - A pickle file containing input array.
 	Assignment_1_a.ipynb - A Python notebook which needs to be filled by you at appropriate palces to complete the assignment. Read the comments in order to understand what is required to be done at each step. 
 
-In case you don't know the function which is required to execute any given operation or if you can't remember its syntax, Google your way out! Still if you face any difficulties, you can ask on the Slack channel.
+In case you don't know the function which is required to execute any given operation or if you can't remember its syntax, Google your way out! Still if you face any difficulties, you can ask on the Slack channel. The assignment may be a easy one and not cover all the topics related to the library but your grasp over these libraries increases with time and practice. All the best!!
