@@ -21,6 +21,7 @@ If you are uncomfortable with command line, you can use Git GUI tool GitKraken. 
 5. Stage all changes (button on the right.)
 6. Fill in the commit message and press commit.
 7. Push the repo (button is on the top).
+8. Fill the [form](https://forms.gle/8WfXbRVYT25LmKeu8)
 
 
 Here is the [markdown](https://www.markdowntutorial.com/) tutorial it is a super simple way to add formatting like headers, bold, bulleted lists, and so on to plain text.
