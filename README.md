@@ -1,5 +1,5 @@
 # ML assignement1 2019-COPS SUMMER SCHOOL
-Here is the first assignment of CSOC ML on the topics of Python and Numpy.
+This is the first assignment of CSOC ML on the topics of Python and Numpy.
 
 ## Instructions to submit
 
